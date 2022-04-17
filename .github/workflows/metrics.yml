@@ -14,10 +14,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          user: Dangkhanh1121
-          template: classic
-          base: header, repositories, activity, community, metadata
           plugin_followup: yes
           plugin_projects: yes
           plugin_lines: yes
