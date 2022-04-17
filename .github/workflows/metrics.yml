@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          base: resposities, activity, community
+          base: repositories, activity, community
           
           plugin_followup: yes
           plugin_lines: yes
