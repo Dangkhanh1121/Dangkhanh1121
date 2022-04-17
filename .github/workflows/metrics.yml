@@ -16,7 +16,7 @@ jobs:
           
           user: Dangkhanh1121
           template: classic
-          base: activity, community
+          base: header
           
           
           plugin_isocalendar: yes
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          base: resposities
+          base: resposities, activity, community
           
           plugin_followup: yes
           plugin_line: yes
