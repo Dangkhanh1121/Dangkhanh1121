@@ -16,7 +16,7 @@ jobs:
           
           user: Dangkhanh1121
           template: classic
-          base: resposities, activity, community
+          base: activity, community
           
           
           plugin_isocalendar: yes
@@ -43,6 +43,8 @@ jobs:
           filename: right.github.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
+          
+          base: resposities
           
           plugin_followup: yes
           plugin_line: yes
