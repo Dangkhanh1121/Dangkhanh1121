@@ -47,7 +47,7 @@ jobs:
           base: resposities, activity, community
           
           plugin_followup: yes
-          plugin_line: yes
+          plugin_lines: yes
                     
           plugin_languages: yes
           plugin_languages_indepth: yes
