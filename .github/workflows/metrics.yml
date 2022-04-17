@@ -43,7 +43,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          plugin_followup: yes
           plugin_projects: yes
           plugin_lines: yes
           
