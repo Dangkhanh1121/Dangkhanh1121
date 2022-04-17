@@ -29,7 +29,8 @@ jobs:
           token: NOT_NEEDED
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-                    
+          base: header, repositories, activity, community, metadata
+          
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
