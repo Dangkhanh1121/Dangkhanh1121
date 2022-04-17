@@ -33,6 +33,9 @@ jobs:
           template: classic
           base: header, repositories, activity, community, metadata
           
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
