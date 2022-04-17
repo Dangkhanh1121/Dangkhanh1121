@@ -16,7 +16,7 @@ jobs:
           
           user: Dangkhanh1121
           template: classic
-          base: header, resposities, activity, community
+          base: resposities, activity, community
 
           plugin_followup: yes
           plugin_projects: yes
