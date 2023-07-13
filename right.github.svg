@@ -272,7 +272,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 8.21mb of code in 24551 edited files across 24533 commits</small>
+                <small>estimation from 8.21mb of code in 24552 edited files across 24534 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
